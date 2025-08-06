@@ -35,6 +35,10 @@ class UpdateTelegram extends ControllerAbstract
      */
     public function testGetAuthSuccess(): void
     {
+        if (!config('telegram.enabled')) {
+            $this->markTestSkipped('Telegram is disabled in configuration.');
+        }
+
         $this->getAuthSuccess();
     }
 
@@ -43,6 +47,10 @@ class UpdateTelegram extends ControllerAbstract
      */
     public function testPostAuthSuccess(): void
     {
+        if (!config('telegram.enabled')) {
+            $this->markTestSkipped('Telegram is disabled in configuration.');
+        }
+
         $this->setCurl();
 
         $user = $this->authUser();

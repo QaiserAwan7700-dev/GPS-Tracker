@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PHPUnit">
+    <option name="directories">
+      <list>
+        <option value="$PROJECT_DIR$/app/Domains/Alarm/Test/Controller" />
+        <option value="$PROJECT_DIR$/app/Domains/AlarmNotification/Test/Controller" />
+        <option value="$PROJECT_DIR$/app/Domains/City/Test/Controller" />
+        <option value="$PROJECT_DIR$/app/Domains/Configuration/Test/Controller" />
+        <option value="$PROJECT_DIR$/app/Domains/Country/Test/Controller" />
+        <option value="$PROJECT_DIR$/app/Domains/Dashboard/Test/Controller" />
+        <option value="$PROJECT_DIR$/app/Domains/Device/Test/Controller" />
+        <option value="$PROJECT_DIR$/app/Domains/DeviceMessage/Test/Controller" />
+        <option value="$PROJECT_DIR$/app/Domains/IpLock/Test/Controller" />
+        <option value="$PROJECT_DIR$/app/Domains/Language/Test/Controller" />
+        <option value="$PROJECT_DIR$/app/Domains/Maintenance/Test/Controller" />
+        <option value="$PROJECT_DIR$/app/Domains/MaintenanceItem/Test/Controller" />
+        <option value="$PROJECT_DIR$/app/Domains/Position/Test/Controller" />
+        <option value="$PROJECT_DIR$/app/Domains/Profile/Test/Controller" />
+        <option value="$PROJECT_DIR$/app/Domains/Refuel/Test/Controller" />
+        <option value="$PROJECT_DIR$/app/Domains/Server/Test/Controller" />
+        <option value="$PROJECT_DIR$/app/Domains/Shared/Test/Controller" />
+        <option value="$PROJECT_DIR$/app/Domains/State/Test/Controller" />
+        <option value="$PROJECT_DIR$/app/Domains/Timezone/Test/Controller" />
+        <option value="$PROJECT_DIR$/app/Domains/Trip/Test/Controller" />
+        <option value="$PROJECT_DIR$/app/Domains/User/Test/Controller" />
+        <option value="$PROJECT_DIR$/app/Domains/UserSession/Test/Controller" />
+        <option value="$PROJECT_DIR$/app/Domains/Vehicle/Test/Controller" />
+        <option value="$PROJECT_DIR$/app/Domains/Device/Test/ControllerApi" />
+        <option value="$PROJECT_DIR$/app/Domains/Language/Test/ControllerApi" />
+        <option value="$PROJECT_DIR$/app/Domains/Profile/Test/ControllerApi" />
+        <option value="$PROJECT_DIR$/app/Domains/Refuel/Test/ControllerApi" />
+        <option value="$PROJECT_DIR$/app/Domains/Timezone/Test/ControllerApi" />
+        <option value="$PROJECT_DIR$/app/Domains/Trip/Test/ControllerApi" />
+        <option value="$PROJECT_DIR$/app/Domains/User/Test/ControllerApi" />
+        <option value="$PROJECT_DIR$/app/Domains/Vehicle/Test/ControllerApi" />
+        <option value="$PROJECT_DIR$/app/Domains/Server/Test/Unit" />
+      </list>
+    </option>
+  </component>
+</project>
